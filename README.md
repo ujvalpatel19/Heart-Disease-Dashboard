@@ -208,7 +208,7 @@ Based on the dashboard analysis:
 
 ## 📸 Dashboard Preview
 
-Add your dashboard screenshot to the repository and display it here.
+
 
 ```text
 Heart_Disease_Dashboard.png
