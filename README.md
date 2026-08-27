@@ -214,7 +214,6 @@ Add your dashboard screenshot to the repository and display it here.
 Heart_Disease_Dashboard.png
 ```
 
-> Replace the image file name below with the actual name of your uploaded screenshot.
 
 ![Heart Disease Dashboard](Heart_Disease_Dashboard.png)
 
